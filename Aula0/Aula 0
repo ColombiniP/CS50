@@ -1,0 +1,23 @@
+Nesta aula vimos como um computador executa seus calculos usando números binários.
+
+Binário é um sistema numérico que possui 0 ou 1, ligado ou desligado
+
+Entendemos que cada digito se chama bit e um conjunto de 8 digitos é um byte
+
+Os computadores treansformam esses bits em bytes e geram imagens, sons, calculos matemáticos etc ...
+
+Entendemos o pensamento computacional, que a forma como resolvemos qualquer coisa com o computador, um *Algoritmo*
+
+Exemplo de um algoritmo;
+
+Buscar um nome em uma lista telefonica
+
+Primeiro vemos a ordem da lista, normalmente é alfabética, em seguida pegamos a primeira letra do nome de quem queremos buscar e abrimos a lista ao meio, em seguida se não tiver acertado a posição, vemos se está para esquerda ou direita, abrimos ao meio novamente e assim por diante ...
+
+Fomos introduzidos ao scratch.mit.edu onde podemos criar programas com comandos que vimos em aula como:
+
+dizer olá 
+fazer o gato andar
+fazer o gato comprimentar usando informações que fornecemos
+
+e para isso usamos loops, comandos booleanos, condições etc...
