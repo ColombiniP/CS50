@@ -8,11 +8,11 @@ No curso usamos a [*IDE*](https://ide.cs50.io) própria do CS50
 
 O curso tem sua própria biblioteca para lidar com informações do usuário, podemos capturar dados que são digitado para todos os tipos com get_<tipo>:
 
-get_string("prompt:");
-get_int
-get_float
-get_double
-ger_char
+get_string("prompt:"); 
+get_int 
+get_float 
+get_double 
+ger_char 
 
 Para termos acesso à essas funções, porecisamos incluir a library, como no exemplo:
 
@@ -34,7 +34,7 @@ Porém ela está no ambiente de desenvolvimento integrado do curso. Para que eu 
 Tive dificuldade ao compilar mesmo seguindo os passos orientado, porém refiz o processo de instalação conforme esses passos da [documentação](https://cs50.readthedocs.io/libraries/cs50/c/):
 
 ```shell
-// ubuntu (sistema que eu utilizo
+# ubuntu (sistema que eu utilizo)
 $ curl -s https://packagecloud.io/install/repositories/cs50/repo/script.deb.sh | sudo bash
 $ sudo apt install libcs50
 ```
